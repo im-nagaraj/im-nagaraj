@@ -1,7 +1,3 @@
-<!-- Header Section -->
-<p align="right">
-  <img src="https://your-image-url.com/cool-image.png" alt="Header Image" width="150">
-</p>
 
 <!-- Introduction Section -->
 <h1 align="left">👋 Hello there! I'm Nagaraj K</h1>
