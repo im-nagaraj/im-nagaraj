@@ -52,13 +52,14 @@ I'm passionate about turning raw data into meaningful insights. With a backgroun
 <!-- Connect Section -->
 <h2 align="left">🤝 Connect with Me</h2>
 <p align="left">
-  <a href="your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  <a href="your-instagram-profile">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
   </a>
-  <a href="your-twitter-profile">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  <a href="your-facebook-profile">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
   </a>
 </p>
+
 
 
 
